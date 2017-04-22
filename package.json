@@ -1,0 +1,13 @@
+{
+  "name": "middleware-example",
+  "version": "0.1.0",
+  "description": "",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yedaodao/middleware-example.git"
+  },
+  
+  "author": "yedaodao",
+  "license": "MIT"
+}
