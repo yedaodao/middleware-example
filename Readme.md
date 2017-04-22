@@ -1,3 +1,0 @@
-# middleware-example
-
-middleware-example
